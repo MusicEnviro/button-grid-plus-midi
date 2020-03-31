@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/button-grid-plus-midi/static/css/main.b3a6c9e2.chunk.css",
-    "main.js": "/button-grid-plus-midi/static/js/main.be6407cb.chunk.js",
-    "main.js.map": "/button-grid-plus-midi/static/js/main.be6407cb.chunk.js.map",
+    "main.js": "/button-grid-plus-midi/static/js/main.e6326d27.chunk.js",
+    "main.js.map": "/button-grid-plus-midi/static/js/main.e6326d27.chunk.js.map",
     "runtime-main.js": "/button-grid-plus-midi/static/js/runtime-main.cf090cb5.js",
     "runtime-main.js.map": "/button-grid-plus-midi/static/js/runtime-main.cf090cb5.js.map",
-    "static/js/2.4e9d7566.chunk.js": "/button-grid-plus-midi/static/js/2.4e9d7566.chunk.js",
-    "static/js/2.4e9d7566.chunk.js.map": "/button-grid-plus-midi/static/js/2.4e9d7566.chunk.js.map",
+    "static/js/2.d8f08212.chunk.js": "/button-grid-plus-midi/static/js/2.d8f08212.chunk.js",
+    "static/js/2.d8f08212.chunk.js.map": "/button-grid-plus-midi/static/js/2.d8f08212.chunk.js.map",
     "index.html": "/button-grid-plus-midi/index.html",
-    "precache-manifest.6e0709e44360d168d812b81a2dd3aceb.js": "/button-grid-plus-midi/precache-manifest.6e0709e44360d168d812b81a2dd3aceb.js",
+    "precache-manifest.aa4ffda335af47fb547796e54e0f6b8b.js": "/button-grid-plus-midi/precache-manifest.aa4ffda335af47fb547796e54e0f6b8b.js",
     "service-worker.js": "/button-grid-plus-midi/service-worker.js",
     "static/css/main.b3a6c9e2.chunk.css.map": "/button-grid-plus-midi/static/css/main.b3a6c9e2.chunk.css.map",
-    "static/js/2.4e9d7566.chunk.js.LICENSE.txt": "/button-grid-plus-midi/static/js/2.4e9d7566.chunk.js.LICENSE.txt"
+    "static/js/2.d8f08212.chunk.js.LICENSE.txt": "/button-grid-plus-midi/static/js/2.d8f08212.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cf090cb5.js",
-    "static/js/2.4e9d7566.chunk.js",
+    "static/js/2.d8f08212.chunk.js",
     "static/css/main.b3a6c9e2.chunk.css",
-    "static/js/main.be6407cb.chunk.js"
+    "static/js/main.e6326d27.chunk.js"
   ]
 }
