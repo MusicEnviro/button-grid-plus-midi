@@ -1,11 +1,15 @@
 import React from 'react';
 import './App.css'
 
+import { ButtonGrid } from '@musicenviro/ui-elements'
+
 function App() {
   return (
 		<div className="App">
-			<header>TITLE2</header>
-			<div id="main">content</div>
+			<header>drum pad with midi</header>
+			<div id="main">
+				<ButtonGrid />
+			</div>
 		</div>
   );
 }
