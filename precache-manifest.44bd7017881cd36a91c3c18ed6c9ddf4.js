@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c93a891250caae0bb33153ddb3b5d1e",
+    "revision": "ae041bfeed2a37960f6e89e1c61e319b",
     "url": "/button-grid-plus-midi/index.html"
   },
   {
-    "revision": "fdd020e72ce0d2b39129",
+    "revision": "bcb1148df308662a8e3e",
     "url": "/button-grid-plus-midi/static/css/main.b3a6c9e2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/button-grid-plus-midi/static/js/2.d8f08212.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdd020e72ce0d2b39129",
-    "url": "/button-grid-plus-midi/static/js/main.48bf9b46.chunk.js"
+    "revision": "bcb1148df308662a8e3e",
+    "url": "/button-grid-plus-midi/static/js/main.2a3e3586.chunk.js"
   },
   {
     "revision": "54e86c8f7ed47d351575",
