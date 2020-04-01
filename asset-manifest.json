@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/button-grid-plus-midi/static/css/main.b3a6c9e2.chunk.css",
-    "main.js": "/button-grid-plus-midi/static/js/main.e6326d27.chunk.js",
-    "main.js.map": "/button-grid-plus-midi/static/js/main.e6326d27.chunk.js.map",
+    "main.js": "/button-grid-plus-midi/static/js/main.48bf9b46.chunk.js",
+    "main.js.map": "/button-grid-plus-midi/static/js/main.48bf9b46.chunk.js.map",
     "runtime-main.js": "/button-grid-plus-midi/static/js/runtime-main.cf090cb5.js",
     "runtime-main.js.map": "/button-grid-plus-midi/static/js/runtime-main.cf090cb5.js.map",
     "static/js/2.d8f08212.chunk.js": "/button-grid-plus-midi/static/js/2.d8f08212.chunk.js",
     "static/js/2.d8f08212.chunk.js.map": "/button-grid-plus-midi/static/js/2.d8f08212.chunk.js.map",
     "index.html": "/button-grid-plus-midi/index.html",
-    "precache-manifest.aa4ffda335af47fb547796e54e0f6b8b.js": "/button-grid-plus-midi/precache-manifest.aa4ffda335af47fb547796e54e0f6b8b.js",
+    "precache-manifest.de837bde8dfd915a1ef0563a51e02c80.js": "/button-grid-plus-midi/precache-manifest.de837bde8dfd915a1ef0563a51e02c80.js",
     "service-worker.js": "/button-grid-plus-midi/service-worker.js",
     "static/css/main.b3a6c9e2.chunk.css.map": "/button-grid-plus-midi/static/css/main.b3a6c9e2.chunk.css.map",
     "static/js/2.d8f08212.chunk.js.LICENSE.txt": "/button-grid-plus-midi/static/js/2.d8f08212.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cf090cb5.js",
     "static/js/2.d8f08212.chunk.js",
     "static/css/main.b3a6c9e2.chunk.css",
-    "static/js/main.e6326d27.chunk.js"
+    "static/js/main.48bf9b46.chunk.js"
   ]
 }
